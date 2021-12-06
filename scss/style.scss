@@ -395,6 +395,7 @@ h1, h2, h3, h4, h5,
 	}
 	&.home-slider {
 		position: relative;
+		padding-top: 200px;
 		height: 750px;
 		z-index: 0;
 		.slider-item {
@@ -506,6 +507,9 @@ h1, h2, h3, h4, h5,
 					letter-spacing: 3px;
 					text-transform: uppercase;
 					color: $primary;
+				}
+				.subheading-text{
+					color:black;
 				}
 				.text{
 					position: relative;
